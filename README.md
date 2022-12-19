@@ -3,4 +3,4 @@
  
  we use image classification for determining the status of the fruit.
  
- By using prection function we predict the fruit.
+ By using prediction function we predict the fruit.
