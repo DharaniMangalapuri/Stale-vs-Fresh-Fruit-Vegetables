@@ -1,6 +1,13 @@
 # Stale vs Fresh Fruit Vegetables
- checking weather the given apple is stale or fresh.
+Image Classification
+ we are using image classification for classifying the image
  
- we use image classification for determining the status of the fruit.
+ here, we use multi class classification on the dataset stale vs fresh fruit and vegetables 
  
- By using prediction function we predict the fruit.
+ in this process we are using tensoflow module
+ 
+ first we train the model
+ 
+ then saving the file in the .h5 format
+ 
+ we can load model and we can predict the image from the given classes
